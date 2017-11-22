@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3446249, 2017-09-03T16:37:47-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: MontanaTypeface by Alex Couture
+ * URL: https://www.myfonts.com/fonts/alex-couture/montana-typeface/regular/
+ * Copyright: Copyright (c) 2016 by Alexcouture. All rights reserved.
+ * Licensed pageviews: 20,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3446249
+ * 
+ * Â© 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+/* @import url("//hello.myfonts.net/count/3495e9"); */
+
+  
+@font-face {font-family: 'MontanaTypeface';src: url('webfonts/3495E9_0_0.eot');src: url('webfonts/3495E9_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3495E9_0_0.woff2') format('woff2'),url('webfonts/3495E9_0_0.woff') format('woff'),url('webfonts/3495E9_0_0.ttf') format('truetype');}
+ 
